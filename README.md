@@ -55,16 +55,17 @@ We trained the model for **8 epochs** using:
 - **Metrics:** accuracy
 
 #### 📉 Loss over Epochs
-![Loss over Epochs](images/loss_plot.png)
+![Loss over Epochs](loss_plot.png)
 
 #### 📈 Accuracy over Epochs
-![Accuracy over Epochs](images/accuracy_plot.png)
+![Accuracy over Epochs](accuracy_plot.png)
+
 
 **Observations:**
 - Training and validation loss both decreased over time, indicating learning progress.
 - Validation accuracy consistently outperformed training accuracy, suggesting good generalization.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1️⃣ Open in Google Colab
 You can open the notebook directly in Colab:
